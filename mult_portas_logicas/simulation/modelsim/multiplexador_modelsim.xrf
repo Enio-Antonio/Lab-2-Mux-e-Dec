@@ -1,0 +1,16 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/enioa/Desktop/Aulas/Lab-2-SD/mult_portas_logicas/multiplexador.vhd
+source_file = 1, C:/Users/enioa/Desktop/Aulas/Lab-2-SD/mult_portas_logicas/PortaAnd.vhd
+source_file = 1, C:/Users/enioa/Desktop/Aulas/Lab-2-SD/mult_portas_logicas/PortaOr.vhd
+source_file = 1, C:/Users/enioa/Desktop/Aulas/Lab-2-SD/mult_portas_logicas/Waveform.vwf
+source_file = 1, C:/Users/enioa/Desktop/Aulas/Lab-2-SD/mult_portas_logicas/db/multiplexador.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = multiplexador
+instance = comp, \switch~I , switch, multiplexador, 1
+instance = comp, \b~I , b, multiplexador, 1
+instance = comp, \a~I , a, multiplexador, 1
+instance = comp, \u3|saida_or~0 , u3|saida_or~0, multiplexador, 1
+instance = comp, \saida~I , saida, multiplexador, 1

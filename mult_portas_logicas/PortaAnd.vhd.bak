@@ -1,0 +1,3 @@
+entity PortaAnd is 
+	port(en1, en2 : in bit; saida_and: out bit);
+end PortaAnd;

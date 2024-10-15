@@ -1,0 +1,9 @@
+entity mult4bit is 
+	port(a, b, c, d, switch : in bit; saida : out bit);
+	end mult4bit;
+	
+architecture main of mult4bit is
+
+begin
+
+end architecture;

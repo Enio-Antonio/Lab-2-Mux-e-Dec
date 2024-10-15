@@ -1,0 +1,32 @@
+|mult4x1
+a => mult2x1:u1.multa
+b => mult2x1:u1.multb
+c => mult2x1:u2.multa
+d => mult2x1:u2.multb
+switch1 => mult2x1:u1.switch
+switch1 => mult2x1:u2.switch
+switch2 => mult2x1:u3.switch
+saida <= mult2x1:u3.saida_mult
+
+
+|mult4x1|mult2x1:u1
+multa => saida_mult~0.DATAB
+multb => saida_mult~0.DATAA
+switch => saida_mult~0.OUTPUTSELECT
+saida_mult <= saida_mult~0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult4x1|mult2x1:u2
+multa => saida_mult~0.DATAB
+multb => saida_mult~0.DATAA
+switch => saida_mult~0.OUTPUTSELECT
+saida_mult <= saida_mult~0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|mult4x1|mult2x1:u3
+multa => saida_mult~0.DATAB
+multb => saida_mult~0.DATAA
+switch => saida_mult~0.OUTPUTSELECT
+saida_mult <= saida_mult~0.DB_MAX_OUTPUT_PORT_TYPE
+
+

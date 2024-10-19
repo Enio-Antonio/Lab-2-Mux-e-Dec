@@ -1,0 +1,8 @@
+entity PortaAnd is 
+	port(a, b, c, d : in bit; saida : out bi);
+end PortAnd;
+
+architecture main of POrtaAnd is
+begin
+	saida => a and b and c and d;
+end architecture main;

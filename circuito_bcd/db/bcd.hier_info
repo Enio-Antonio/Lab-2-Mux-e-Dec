@@ -1,0 +1,306 @@
+|bcd
+a => PortaAnd:u1.a
+a => PortaAnd:u4.a
+a => PortaAnd:u8.a
+a => PortaAnd:u10.a
+a => PortaAnd:u12.a
+a => PortaAnd:u13.a
+a => PortaAnd:u15.a
+a => PortaAnd:u16.a
+a => PortaAnd:u17.a
+a => PortaAnd:u19.a
+a => PortaAnd:u21.a
+a => PortaAnd:u22.a
+a => PortaAnd:u25.a
+a => PortaAnd:u26.a
+a => PortaAnd:u2.a
+a => PortaAnd:u5.a
+a => PortaAnd:u7.a
+a => PortaAnd:u9.a
+a => PortaAnd:u14.a
+a => PortaAnd:u20.a
+a => PortaAnd:u24.a
+b => PortaAnd:u5.b
+b => PortaAnd:u7.b
+b => PortaAnd:u10.b
+b => PortaAnd:u13.b
+b => PortaAnd:u16.b
+b => PortaAnd:u17.b
+b => PortaAnd:u20.b
+b => PortaAnd:u21.b
+b => PortaAnd:u22.b
+b => PortaAnd:u26.b
+b => PortaAnd:u1.b
+b => PortaAnd:u2.b
+b => PortaAnd:u4.b
+b => PortaAnd:u8.b
+b => PortaAnd:u9.b
+b => PortaAnd:u12.b
+b => PortaAnd:u14.b
+b => PortaAnd:u15.b
+b => PortaAnd:u19.b
+b => PortaAnd:u24.b
+b => PortaAnd:u25.b
+c => PortaAnd:u2.c
+c => PortaAnd:u4.c
+c => PortaAnd:u5.c
+c => PortaAnd:u9.c
+c => PortaAnd:u10.c
+c => PortaAnd:u14.c
+c => PortaAnd:u15.c
+c => PortaAnd:u16.c
+c => PortaAnd:u22.c
+c => PortaAnd:u26.c
+c => PortaAnd:u1.c
+c => PortaAnd:u7.c
+c => PortaAnd:u8.c
+c => PortaAnd:u12.c
+c => PortaAnd:u13.c
+c => PortaAnd:u17.c
+c => PortaAnd:u19.c
+c => PortaAnd:u20.c
+c => PortaAnd:u21.c
+c => PortaAnd:u24.c
+c => PortaAnd:u25.c
+d => PortaAnd:u14.d
+d => PortaAnd:u17.d
+d => PortaAnd:u1.d
+d => PortaAnd:u2.d
+d => PortaAnd:u4.d
+d => PortaAnd:u5.d
+d => PortaAnd:u7.d
+d => PortaAnd:u8.d
+d => PortaAnd:u9.d
+d => PortaAnd:u10.d
+d => PortaAnd:u12.d
+d => PortaAnd:u13.d
+d => PortaAnd:u15.d
+d => PortaAnd:u16.d
+d => PortaAnd:u19.d
+d => PortaAnd:u20.d
+d => PortaAnd:u21.d
+d => PortaAnd:u22.d
+d => PortaAnd:u24.d
+d => PortaAnd:u25.d
+d => PortaAnd:u26.d
+s0 <= PortaOr2:u3.saida
+s1 <= PortaOr2:u6.saida
+s2 <= PortaAnd:u7.saida
+s3 <= PortaOr3:u11.saida
+s4 <= PortaOr6:u18.saida
+s5 <= PortaOr4:u23.saida
+s6 <= PortaOr3:u27.saida
+
+
+|bcd|PortaAnd:u1
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u2
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr2:u3
+a => saida~0.IN0
+b => saida~0.IN1
+saida <= saida~0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u4
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u5
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr2:u6
+a => saida~0.IN0
+b => saida~0.IN1
+saida <= saida~0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u7
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u8
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u9
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u10
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr3:u11
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+saida <= saida~1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u12
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u13
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u14
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u15
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u16
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u17
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr6:u18
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+e => saida~3.IN1
+f => saida~4.IN1
+saida <= saida~4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u19
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u20
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u21
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u22
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr4:u23
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u24
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u25
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaAnd:u26
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+d => saida~2.IN1
+saida <= saida~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|bcd|PortaOr3:u27
+a => saida~0.IN0
+b => saida~0.IN1
+c => saida~1.IN1
+saida <= saida~1.DB_MAX_OUTPUT_PORT_TYPE
+
+

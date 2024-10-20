@@ -1,5 +1,5 @@
 Simulator report for bcd
-Sat Oct 19 15:18:14 2024
+Sun Oct 20 19:40:30 2024
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -141,6 +141,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u66|saida~0 ; |bcd|PortaAnd:u66|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u66|saida~1 ; |bcd|PortaAnd:u66|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u66|saida   ; |bcd|PortaAnd:u66|saida   ; out0             ;
+; |bcd|PortaAnd:u65|saida~0 ; |bcd|PortaAnd:u65|saida~0 ; out0             ;
+; |bcd|PortaAnd:u65|saida~1 ; |bcd|PortaAnd:u65|saida~1 ; out0             ;
+; |bcd|PortaAnd:u65|saida   ; |bcd|PortaAnd:u65|saida   ; out0             ;
+; |bcd|PortaAnd:u64|saida~0 ; |bcd|PortaAnd:u64|saida~0 ; out0             ;
+; |bcd|PortaAnd:u64|saida~1 ; |bcd|PortaAnd:u64|saida~1 ; out0             ;
+; |bcd|PortaAnd:u64|saida   ; |bcd|PortaAnd:u64|saida   ; out0             ;
+; |bcd|PortaAnd:u63|saida~0 ; |bcd|PortaAnd:u63|saida~0 ; out0             ;
+; |bcd|PortaAnd:u63|saida~1 ; |bcd|PortaAnd:u63|saida~1 ; out0             ;
+; |bcd|PortaAnd:u63|saida   ; |bcd|PortaAnd:u63|saida   ; out0             ;
 ; |bcd|PortaAnd:u62|saida~0 ; |bcd|PortaAnd:u62|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u62|saida~1 ; |bcd|PortaAnd:u62|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u62|saida   ; |bcd|PortaAnd:u62|saida   ; out0             ;
@@ -153,6 +162,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u59|saida~0 ; |bcd|PortaAnd:u59|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u59|saida~1 ; |bcd|PortaAnd:u59|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u59|saida   ; |bcd|PortaAnd:u59|saida   ; out0             ;
+; |bcd|PortaAnd:u58|saida~0 ; |bcd|PortaAnd:u58|saida~0 ; out0             ;
+; |bcd|PortaAnd:u58|saida~1 ; |bcd|PortaAnd:u58|saida~1 ; out0             ;
+; |bcd|PortaAnd:u58|saida   ; |bcd|PortaAnd:u58|saida   ; out0             ;
+; |bcd|PortaAnd:u57|saida~0 ; |bcd|PortaAnd:u57|saida~0 ; out0             ;
+; |bcd|PortaAnd:u57|saida~1 ; |bcd|PortaAnd:u57|saida~1 ; out0             ;
+; |bcd|PortaAnd:u57|saida   ; |bcd|PortaAnd:u57|saida   ; out0             ;
+; |bcd|PortaAnd:u56|saida~0 ; |bcd|PortaAnd:u56|saida~0 ; out0             ;
+; |bcd|PortaAnd:u56|saida~1 ; |bcd|PortaAnd:u56|saida~1 ; out0             ;
+; |bcd|PortaAnd:u56|saida   ; |bcd|PortaAnd:u56|saida   ; out0             ;
 ; |bcd|PortaAnd:u55|saida~0 ; |bcd|PortaAnd:u55|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u55|saida~1 ; |bcd|PortaAnd:u55|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u55|saida   ; |bcd|PortaAnd:u55|saida   ; out0             ;
@@ -165,6 +183,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u52|saida~0 ; |bcd|PortaAnd:u52|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u52|saida~1 ; |bcd|PortaAnd:u52|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u52|saida   ; |bcd|PortaAnd:u52|saida   ; out0             ;
+; |bcd|PortaAnd:u51|saida~0 ; |bcd|PortaAnd:u51|saida~0 ; out0             ;
+; |bcd|PortaAnd:u51|saida~1 ; |bcd|PortaAnd:u51|saida~1 ; out0             ;
+; |bcd|PortaAnd:u51|saida   ; |bcd|PortaAnd:u51|saida   ; out0             ;
+; |bcd|PortaAnd:u50|saida~0 ; |bcd|PortaAnd:u50|saida~0 ; out0             ;
+; |bcd|PortaAnd:u50|saida~1 ; |bcd|PortaAnd:u50|saida~1 ; out0             ;
+; |bcd|PortaAnd:u50|saida   ; |bcd|PortaAnd:u50|saida   ; out0             ;
+; |bcd|PortaAnd:u49|saida~0 ; |bcd|PortaAnd:u49|saida~0 ; out0             ;
+; |bcd|PortaAnd:u49|saida~1 ; |bcd|PortaAnd:u49|saida~1 ; out0             ;
+; |bcd|PortaAnd:u49|saida   ; |bcd|PortaAnd:u49|saida   ; out0             ;
 ; |bcd|PortaAnd:u48|saida~0 ; |bcd|PortaAnd:u48|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u48|saida~1 ; |bcd|PortaAnd:u48|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u48|saida   ; |bcd|PortaAnd:u48|saida   ; out0             ;
@@ -177,6 +204,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u45|saida~0 ; |bcd|PortaAnd:u45|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u45|saida~1 ; |bcd|PortaAnd:u45|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u45|saida   ; |bcd|PortaAnd:u45|saida   ; out0             ;
+; |bcd|PortaAnd:u44|saida~0 ; |bcd|PortaAnd:u44|saida~0 ; out0             ;
+; |bcd|PortaAnd:u44|saida~1 ; |bcd|PortaAnd:u44|saida~1 ; out0             ;
+; |bcd|PortaAnd:u44|saida   ; |bcd|PortaAnd:u44|saida   ; out0             ;
+; |bcd|PortaAnd:u43|saida~0 ; |bcd|PortaAnd:u43|saida~0 ; out0             ;
+; |bcd|PortaAnd:u43|saida~1 ; |bcd|PortaAnd:u43|saida~1 ; out0             ;
+; |bcd|PortaAnd:u43|saida   ; |bcd|PortaAnd:u43|saida   ; out0             ;
+; |bcd|PortaAnd:u42|saida~0 ; |bcd|PortaAnd:u42|saida~0 ; out0             ;
+; |bcd|PortaAnd:u42|saida~1 ; |bcd|PortaAnd:u42|saida~1 ; out0             ;
+; |bcd|PortaAnd:u42|saida   ; |bcd|PortaAnd:u42|saida   ; out0             ;
 ; |bcd|PortaAnd:u41|saida~0 ; |bcd|PortaAnd:u41|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u41|saida~1 ; |bcd|PortaAnd:u41|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u41|saida   ; |bcd|PortaAnd:u41|saida   ; out0             ;
@@ -189,6 +225,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u38|saida~0 ; |bcd|PortaAnd:u38|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u38|saida~1 ; |bcd|PortaAnd:u38|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u38|saida   ; |bcd|PortaAnd:u38|saida   ; out0             ;
+; |bcd|PortaAnd:u37|saida~0 ; |bcd|PortaAnd:u37|saida~0 ; out0             ;
+; |bcd|PortaAnd:u37|saida~1 ; |bcd|PortaAnd:u37|saida~1 ; out0             ;
+; |bcd|PortaAnd:u37|saida   ; |bcd|PortaAnd:u37|saida   ; out0             ;
+; |bcd|PortaAnd:u36|saida~0 ; |bcd|PortaAnd:u36|saida~0 ; out0             ;
+; |bcd|PortaAnd:u36|saida~1 ; |bcd|PortaAnd:u36|saida~1 ; out0             ;
+; |bcd|PortaAnd:u36|saida   ; |bcd|PortaAnd:u36|saida   ; out0             ;
+; |bcd|PortaAnd:u35|saida~0 ; |bcd|PortaAnd:u35|saida~0 ; out0             ;
+; |bcd|PortaAnd:u35|saida~1 ; |bcd|PortaAnd:u35|saida~1 ; out0             ;
+; |bcd|PortaAnd:u35|saida   ; |bcd|PortaAnd:u35|saida   ; out0             ;
 ; |bcd|PortaAnd:u34|saida~0 ; |bcd|PortaAnd:u34|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u34|saida~1 ; |bcd|PortaAnd:u34|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u34|saida   ; |bcd|PortaAnd:u34|saida   ; out0             ;
@@ -201,6 +246,15 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaAnd:u31|saida~0 ; |bcd|PortaAnd:u31|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u31|saida~1 ; |bcd|PortaAnd:u31|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u31|saida   ; |bcd|PortaAnd:u31|saida   ; out0             ;
+; |bcd|PortaAnd:u30|saida~0 ; |bcd|PortaAnd:u30|saida~0 ; out0             ;
+; |bcd|PortaAnd:u30|saida~1 ; |bcd|PortaAnd:u30|saida~1 ; out0             ;
+; |bcd|PortaAnd:u30|saida   ; |bcd|PortaAnd:u30|saida   ; out0             ;
+; |bcd|PortaAnd:u29|saida~0 ; |bcd|PortaAnd:u29|saida~0 ; out0             ;
+; |bcd|PortaAnd:u29|saida~1 ; |bcd|PortaAnd:u29|saida~1 ; out0             ;
+; |bcd|PortaAnd:u29|saida   ; |bcd|PortaAnd:u29|saida   ; out0             ;
+; |bcd|PortaAnd:u28|saida~0 ; |bcd|PortaAnd:u28|saida~0 ; out0             ;
+; |bcd|PortaAnd:u28|saida~1 ; |bcd|PortaAnd:u28|saida~1 ; out0             ;
+; |bcd|PortaAnd:u28|saida   ; |bcd|PortaAnd:u28|saida   ; out0             ;
 ; |bcd|PortaOr3:u27|saida~0 ; |bcd|PortaOr3:u27|saida~0 ; out0             ;
 ; |bcd|PortaOr3:u27|saida~1 ; |bcd|PortaOr3:u27|saida~1 ; out0             ;
 ; |bcd|PortaOr3:u27|saida~2 ; |bcd|PortaOr3:u27|saida~2 ; out0             ;
@@ -291,24 +345,6 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaOr7:u70|saida~3 ; |bcd|PortaOr7:u70|saida~3 ; out0             ;
 ; |bcd|PortaOr7:u70|saida~4 ; |bcd|PortaOr7:u70|saida~4 ; out0             ;
 ; |bcd|PortaOr7:u70|saida   ; |bcd|PortaOr7:u70|saida   ; out0             ;
-; |bcd|PortaAnd:u65|saida~0 ; |bcd|PortaAnd:u65|saida~0 ; out0             ;
-; |bcd|PortaAnd:u65|saida~1 ; |bcd|PortaAnd:u65|saida~1 ; out0             ;
-; |bcd|PortaAnd:u65|saida   ; |bcd|PortaAnd:u65|saida   ; out0             ;
-; |bcd|PortaAnd:u58|saida~0 ; |bcd|PortaAnd:u58|saida~0 ; out0             ;
-; |bcd|PortaAnd:u58|saida~1 ; |bcd|PortaAnd:u58|saida~1 ; out0             ;
-; |bcd|PortaAnd:u58|saida   ; |bcd|PortaAnd:u58|saida   ; out0             ;
-; |bcd|PortaAnd:u51|saida~0 ; |bcd|PortaAnd:u51|saida~0 ; out0             ;
-; |bcd|PortaAnd:u51|saida~1 ; |bcd|PortaAnd:u51|saida~1 ; out0             ;
-; |bcd|PortaAnd:u51|saida   ; |bcd|PortaAnd:u51|saida   ; out0             ;
-; |bcd|PortaAnd:u44|saida~0 ; |bcd|PortaAnd:u44|saida~0 ; out0             ;
-; |bcd|PortaAnd:u44|saida~1 ; |bcd|PortaAnd:u44|saida~1 ; out0             ;
-; |bcd|PortaAnd:u44|saida   ; |bcd|PortaAnd:u44|saida   ; out0             ;
-; |bcd|PortaAnd:u37|saida~0 ; |bcd|PortaAnd:u37|saida~0 ; out0             ;
-; |bcd|PortaAnd:u37|saida~1 ; |bcd|PortaAnd:u37|saida~1 ; out0             ;
-; |bcd|PortaAnd:u37|saida   ; |bcd|PortaAnd:u37|saida   ; out0             ;
-; |bcd|PortaAnd:u30|saida~0 ; |bcd|PortaAnd:u30|saida~0 ; out0             ;
-; |bcd|PortaAnd:u30|saida~1 ; |bcd|PortaAnd:u30|saida~1 ; out0             ;
-; |bcd|PortaAnd:u30|saida   ; |bcd|PortaAnd:u30|saida   ; out0             ;
 ; |bcd|PortaAnd:u7|saida~0  ; |bcd|PortaAnd:u7|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u7|saida~1  ; |bcd|PortaAnd:u7|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u7|saida    ; |bcd|PortaAnd:u7|saida    ; out0             ;
@@ -319,24 +355,6 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaOr2:u6|saida~4  ; |bcd|PortaOr2:u6|saida~4  ; out0             ;
 ; |bcd|PortaOr2:u6|saida~5  ; |bcd|PortaOr2:u6|saida~5  ; out0             ;
 ; |bcd|PortaOr2:u6|saida    ; |bcd|PortaOr2:u6|saida    ; out0             ;
-; |bcd|PortaAnd:u64|saida~0 ; |bcd|PortaAnd:u64|saida~0 ; out0             ;
-; |bcd|PortaAnd:u64|saida~1 ; |bcd|PortaAnd:u64|saida~1 ; out0             ;
-; |bcd|PortaAnd:u64|saida   ; |bcd|PortaAnd:u64|saida   ; out0             ;
-; |bcd|PortaAnd:u57|saida~0 ; |bcd|PortaAnd:u57|saida~0 ; out0             ;
-; |bcd|PortaAnd:u57|saida~1 ; |bcd|PortaAnd:u57|saida~1 ; out0             ;
-; |bcd|PortaAnd:u57|saida   ; |bcd|PortaAnd:u57|saida   ; out0             ;
-; |bcd|PortaAnd:u50|saida~0 ; |bcd|PortaAnd:u50|saida~0 ; out0             ;
-; |bcd|PortaAnd:u50|saida~1 ; |bcd|PortaAnd:u50|saida~1 ; out0             ;
-; |bcd|PortaAnd:u50|saida   ; |bcd|PortaAnd:u50|saida   ; out0             ;
-; |bcd|PortaAnd:u43|saida~0 ; |bcd|PortaAnd:u43|saida~0 ; out0             ;
-; |bcd|PortaAnd:u43|saida~1 ; |bcd|PortaAnd:u43|saida~1 ; out0             ;
-; |bcd|PortaAnd:u43|saida   ; |bcd|PortaAnd:u43|saida   ; out0             ;
-; |bcd|PortaAnd:u36|saida~0 ; |bcd|PortaAnd:u36|saida~0 ; out0             ;
-; |bcd|PortaAnd:u36|saida~1 ; |bcd|PortaAnd:u36|saida~1 ; out0             ;
-; |bcd|PortaAnd:u36|saida   ; |bcd|PortaAnd:u36|saida   ; out0             ;
-; |bcd|PortaAnd:u29|saida~0 ; |bcd|PortaAnd:u29|saida~0 ; out0             ;
-; |bcd|PortaAnd:u29|saida~1 ; |bcd|PortaAnd:u29|saida~1 ; out0             ;
-; |bcd|PortaAnd:u29|saida   ; |bcd|PortaAnd:u29|saida   ; out0             ;
 ; |bcd|PortaAnd:u5|saida~0  ; |bcd|PortaAnd:u5|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u5|saida~1  ; |bcd|PortaAnd:u5|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u5|saida    ; |bcd|PortaAnd:u5|saida    ; out0             ;
@@ -350,24 +368,6 @@ The following table displays output ports that do not toggle to 1 during simulat
 ; |bcd|PortaOr2:u3|saida~4  ; |bcd|PortaOr2:u3|saida~4  ; out0             ;
 ; |bcd|PortaOr2:u3|saida~5  ; |bcd|PortaOr2:u3|saida~5  ; out0             ;
 ; |bcd|PortaOr2:u3|saida    ; |bcd|PortaOr2:u3|saida    ; out0             ;
-; |bcd|PortaAnd:u63|saida~0 ; |bcd|PortaAnd:u63|saida~0 ; out0             ;
-; |bcd|PortaAnd:u63|saida~1 ; |bcd|PortaAnd:u63|saida~1 ; out0             ;
-; |bcd|PortaAnd:u63|saida   ; |bcd|PortaAnd:u63|saida   ; out0             ;
-; |bcd|PortaAnd:u56|saida~0 ; |bcd|PortaAnd:u56|saida~0 ; out0             ;
-; |bcd|PortaAnd:u56|saida~1 ; |bcd|PortaAnd:u56|saida~1 ; out0             ;
-; |bcd|PortaAnd:u56|saida   ; |bcd|PortaAnd:u56|saida   ; out0             ;
-; |bcd|PortaAnd:u49|saida~0 ; |bcd|PortaAnd:u49|saida~0 ; out0             ;
-; |bcd|PortaAnd:u49|saida~1 ; |bcd|PortaAnd:u49|saida~1 ; out0             ;
-; |bcd|PortaAnd:u49|saida   ; |bcd|PortaAnd:u49|saida   ; out0             ;
-; |bcd|PortaAnd:u42|saida~0 ; |bcd|PortaAnd:u42|saida~0 ; out0             ;
-; |bcd|PortaAnd:u42|saida~1 ; |bcd|PortaAnd:u42|saida~1 ; out0             ;
-; |bcd|PortaAnd:u42|saida   ; |bcd|PortaAnd:u42|saida   ; out0             ;
-; |bcd|PortaAnd:u35|saida~0 ; |bcd|PortaAnd:u35|saida~0 ; out0             ;
-; |bcd|PortaAnd:u35|saida~1 ; |bcd|PortaAnd:u35|saida~1 ; out0             ;
-; |bcd|PortaAnd:u35|saida   ; |bcd|PortaAnd:u35|saida   ; out0             ;
-; |bcd|PortaAnd:u28|saida~0 ; |bcd|PortaAnd:u28|saida~0 ; out0             ;
-; |bcd|PortaAnd:u28|saida~1 ; |bcd|PortaAnd:u28|saida~1 ; out0             ;
-; |bcd|PortaAnd:u28|saida   ; |bcd|PortaAnd:u28|saida   ; out0             ;
 ; |bcd|PortaAnd:u2|saida~0  ; |bcd|PortaAnd:u2|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u2|saida~1  ; |bcd|PortaAnd:u2|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u2|saida    ; |bcd|PortaAnd:u2|saida    ; out0             ;
@@ -406,6 +406,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u66|saida~0 ; |bcd|PortaAnd:u66|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u66|saida~1 ; |bcd|PortaAnd:u66|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u66|saida   ; |bcd|PortaAnd:u66|saida   ; out0             ;
+; |bcd|PortaAnd:u65|saida~0 ; |bcd|PortaAnd:u65|saida~0 ; out0             ;
+; |bcd|PortaAnd:u65|saida~1 ; |bcd|PortaAnd:u65|saida~1 ; out0             ;
+; |bcd|PortaAnd:u65|saida   ; |bcd|PortaAnd:u65|saida   ; out0             ;
+; |bcd|PortaAnd:u64|saida~0 ; |bcd|PortaAnd:u64|saida~0 ; out0             ;
+; |bcd|PortaAnd:u64|saida~1 ; |bcd|PortaAnd:u64|saida~1 ; out0             ;
+; |bcd|PortaAnd:u64|saida   ; |bcd|PortaAnd:u64|saida   ; out0             ;
+; |bcd|PortaAnd:u63|saida~0 ; |bcd|PortaAnd:u63|saida~0 ; out0             ;
+; |bcd|PortaAnd:u63|saida~1 ; |bcd|PortaAnd:u63|saida~1 ; out0             ;
+; |bcd|PortaAnd:u63|saida   ; |bcd|PortaAnd:u63|saida   ; out0             ;
 ; |bcd|PortaAnd:u62|saida~0 ; |bcd|PortaAnd:u62|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u62|saida~1 ; |bcd|PortaAnd:u62|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u62|saida   ; |bcd|PortaAnd:u62|saida   ; out0             ;
@@ -418,6 +427,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u59|saida~0 ; |bcd|PortaAnd:u59|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u59|saida~1 ; |bcd|PortaAnd:u59|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u59|saida   ; |bcd|PortaAnd:u59|saida   ; out0             ;
+; |bcd|PortaAnd:u58|saida~0 ; |bcd|PortaAnd:u58|saida~0 ; out0             ;
+; |bcd|PortaAnd:u58|saida~1 ; |bcd|PortaAnd:u58|saida~1 ; out0             ;
+; |bcd|PortaAnd:u58|saida   ; |bcd|PortaAnd:u58|saida   ; out0             ;
+; |bcd|PortaAnd:u57|saida~0 ; |bcd|PortaAnd:u57|saida~0 ; out0             ;
+; |bcd|PortaAnd:u57|saida~1 ; |bcd|PortaAnd:u57|saida~1 ; out0             ;
+; |bcd|PortaAnd:u57|saida   ; |bcd|PortaAnd:u57|saida   ; out0             ;
+; |bcd|PortaAnd:u56|saida~0 ; |bcd|PortaAnd:u56|saida~0 ; out0             ;
+; |bcd|PortaAnd:u56|saida~1 ; |bcd|PortaAnd:u56|saida~1 ; out0             ;
+; |bcd|PortaAnd:u56|saida   ; |bcd|PortaAnd:u56|saida   ; out0             ;
 ; |bcd|PortaAnd:u55|saida~0 ; |bcd|PortaAnd:u55|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u55|saida~1 ; |bcd|PortaAnd:u55|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u55|saida   ; |bcd|PortaAnd:u55|saida   ; out0             ;
@@ -430,6 +448,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u52|saida~0 ; |bcd|PortaAnd:u52|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u52|saida~1 ; |bcd|PortaAnd:u52|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u52|saida   ; |bcd|PortaAnd:u52|saida   ; out0             ;
+; |bcd|PortaAnd:u51|saida~0 ; |bcd|PortaAnd:u51|saida~0 ; out0             ;
+; |bcd|PortaAnd:u51|saida~1 ; |bcd|PortaAnd:u51|saida~1 ; out0             ;
+; |bcd|PortaAnd:u51|saida   ; |bcd|PortaAnd:u51|saida   ; out0             ;
+; |bcd|PortaAnd:u50|saida~0 ; |bcd|PortaAnd:u50|saida~0 ; out0             ;
+; |bcd|PortaAnd:u50|saida~1 ; |bcd|PortaAnd:u50|saida~1 ; out0             ;
+; |bcd|PortaAnd:u50|saida   ; |bcd|PortaAnd:u50|saida   ; out0             ;
+; |bcd|PortaAnd:u49|saida~0 ; |bcd|PortaAnd:u49|saida~0 ; out0             ;
+; |bcd|PortaAnd:u49|saida~1 ; |bcd|PortaAnd:u49|saida~1 ; out0             ;
+; |bcd|PortaAnd:u49|saida   ; |bcd|PortaAnd:u49|saida   ; out0             ;
 ; |bcd|PortaAnd:u48|saida~0 ; |bcd|PortaAnd:u48|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u48|saida~1 ; |bcd|PortaAnd:u48|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u48|saida   ; |bcd|PortaAnd:u48|saida   ; out0             ;
@@ -442,6 +469,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u45|saida~0 ; |bcd|PortaAnd:u45|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u45|saida~1 ; |bcd|PortaAnd:u45|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u45|saida   ; |bcd|PortaAnd:u45|saida   ; out0             ;
+; |bcd|PortaAnd:u44|saida~0 ; |bcd|PortaAnd:u44|saida~0 ; out0             ;
+; |bcd|PortaAnd:u44|saida~1 ; |bcd|PortaAnd:u44|saida~1 ; out0             ;
+; |bcd|PortaAnd:u44|saida   ; |bcd|PortaAnd:u44|saida   ; out0             ;
+; |bcd|PortaAnd:u43|saida~0 ; |bcd|PortaAnd:u43|saida~0 ; out0             ;
+; |bcd|PortaAnd:u43|saida~1 ; |bcd|PortaAnd:u43|saida~1 ; out0             ;
+; |bcd|PortaAnd:u43|saida   ; |bcd|PortaAnd:u43|saida   ; out0             ;
+; |bcd|PortaAnd:u42|saida~0 ; |bcd|PortaAnd:u42|saida~0 ; out0             ;
+; |bcd|PortaAnd:u42|saida~1 ; |bcd|PortaAnd:u42|saida~1 ; out0             ;
+; |bcd|PortaAnd:u42|saida   ; |bcd|PortaAnd:u42|saida   ; out0             ;
 ; |bcd|PortaAnd:u41|saida~0 ; |bcd|PortaAnd:u41|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u41|saida~1 ; |bcd|PortaAnd:u41|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u41|saida   ; |bcd|PortaAnd:u41|saida   ; out0             ;
@@ -454,6 +490,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u38|saida~0 ; |bcd|PortaAnd:u38|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u38|saida~1 ; |bcd|PortaAnd:u38|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u38|saida   ; |bcd|PortaAnd:u38|saida   ; out0             ;
+; |bcd|PortaAnd:u37|saida~0 ; |bcd|PortaAnd:u37|saida~0 ; out0             ;
+; |bcd|PortaAnd:u37|saida~1 ; |bcd|PortaAnd:u37|saida~1 ; out0             ;
+; |bcd|PortaAnd:u37|saida   ; |bcd|PortaAnd:u37|saida   ; out0             ;
+; |bcd|PortaAnd:u36|saida~0 ; |bcd|PortaAnd:u36|saida~0 ; out0             ;
+; |bcd|PortaAnd:u36|saida~1 ; |bcd|PortaAnd:u36|saida~1 ; out0             ;
+; |bcd|PortaAnd:u36|saida   ; |bcd|PortaAnd:u36|saida   ; out0             ;
+; |bcd|PortaAnd:u35|saida~0 ; |bcd|PortaAnd:u35|saida~0 ; out0             ;
+; |bcd|PortaAnd:u35|saida~1 ; |bcd|PortaAnd:u35|saida~1 ; out0             ;
+; |bcd|PortaAnd:u35|saida   ; |bcd|PortaAnd:u35|saida   ; out0             ;
 ; |bcd|PortaAnd:u34|saida~0 ; |bcd|PortaAnd:u34|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u34|saida~1 ; |bcd|PortaAnd:u34|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u34|saida   ; |bcd|PortaAnd:u34|saida   ; out0             ;
@@ -466,6 +511,15 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaAnd:u31|saida~0 ; |bcd|PortaAnd:u31|saida~0 ; out0             ;
 ; |bcd|PortaAnd:u31|saida~1 ; |bcd|PortaAnd:u31|saida~1 ; out0             ;
 ; |bcd|PortaAnd:u31|saida   ; |bcd|PortaAnd:u31|saida   ; out0             ;
+; |bcd|PortaAnd:u30|saida~0 ; |bcd|PortaAnd:u30|saida~0 ; out0             ;
+; |bcd|PortaAnd:u30|saida~1 ; |bcd|PortaAnd:u30|saida~1 ; out0             ;
+; |bcd|PortaAnd:u30|saida   ; |bcd|PortaAnd:u30|saida   ; out0             ;
+; |bcd|PortaAnd:u29|saida~0 ; |bcd|PortaAnd:u29|saida~0 ; out0             ;
+; |bcd|PortaAnd:u29|saida~1 ; |bcd|PortaAnd:u29|saida~1 ; out0             ;
+; |bcd|PortaAnd:u29|saida   ; |bcd|PortaAnd:u29|saida   ; out0             ;
+; |bcd|PortaAnd:u28|saida~0 ; |bcd|PortaAnd:u28|saida~0 ; out0             ;
+; |bcd|PortaAnd:u28|saida~1 ; |bcd|PortaAnd:u28|saida~1 ; out0             ;
+; |bcd|PortaAnd:u28|saida   ; |bcd|PortaAnd:u28|saida   ; out0             ;
 ; |bcd|PortaOr3:u27|saida~0 ; |bcd|PortaOr3:u27|saida~0 ; out0             ;
 ; |bcd|PortaOr3:u27|saida~1 ; |bcd|PortaOr3:u27|saida~1 ; out0             ;
 ; |bcd|PortaOr3:u27|saida~2 ; |bcd|PortaOr3:u27|saida~2 ; out0             ;
@@ -556,24 +610,6 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaOr7:u70|saida~3 ; |bcd|PortaOr7:u70|saida~3 ; out0             ;
 ; |bcd|PortaOr7:u70|saida~4 ; |bcd|PortaOr7:u70|saida~4 ; out0             ;
 ; |bcd|PortaOr7:u70|saida   ; |bcd|PortaOr7:u70|saida   ; out0             ;
-; |bcd|PortaAnd:u65|saida~0 ; |bcd|PortaAnd:u65|saida~0 ; out0             ;
-; |bcd|PortaAnd:u65|saida~1 ; |bcd|PortaAnd:u65|saida~1 ; out0             ;
-; |bcd|PortaAnd:u65|saida   ; |bcd|PortaAnd:u65|saida   ; out0             ;
-; |bcd|PortaAnd:u58|saida~0 ; |bcd|PortaAnd:u58|saida~0 ; out0             ;
-; |bcd|PortaAnd:u58|saida~1 ; |bcd|PortaAnd:u58|saida~1 ; out0             ;
-; |bcd|PortaAnd:u58|saida   ; |bcd|PortaAnd:u58|saida   ; out0             ;
-; |bcd|PortaAnd:u51|saida~0 ; |bcd|PortaAnd:u51|saida~0 ; out0             ;
-; |bcd|PortaAnd:u51|saida~1 ; |bcd|PortaAnd:u51|saida~1 ; out0             ;
-; |bcd|PortaAnd:u51|saida   ; |bcd|PortaAnd:u51|saida   ; out0             ;
-; |bcd|PortaAnd:u44|saida~0 ; |bcd|PortaAnd:u44|saida~0 ; out0             ;
-; |bcd|PortaAnd:u44|saida~1 ; |bcd|PortaAnd:u44|saida~1 ; out0             ;
-; |bcd|PortaAnd:u44|saida   ; |bcd|PortaAnd:u44|saida   ; out0             ;
-; |bcd|PortaAnd:u37|saida~0 ; |bcd|PortaAnd:u37|saida~0 ; out0             ;
-; |bcd|PortaAnd:u37|saida~1 ; |bcd|PortaAnd:u37|saida~1 ; out0             ;
-; |bcd|PortaAnd:u37|saida   ; |bcd|PortaAnd:u37|saida   ; out0             ;
-; |bcd|PortaAnd:u30|saida~0 ; |bcd|PortaAnd:u30|saida~0 ; out0             ;
-; |bcd|PortaAnd:u30|saida~1 ; |bcd|PortaAnd:u30|saida~1 ; out0             ;
-; |bcd|PortaAnd:u30|saida   ; |bcd|PortaAnd:u30|saida   ; out0             ;
 ; |bcd|PortaAnd:u7|saida~0  ; |bcd|PortaAnd:u7|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u7|saida~1  ; |bcd|PortaAnd:u7|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u7|saida    ; |bcd|PortaAnd:u7|saida    ; out0             ;
@@ -584,24 +620,6 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaOr2:u6|saida~4  ; |bcd|PortaOr2:u6|saida~4  ; out0             ;
 ; |bcd|PortaOr2:u6|saida~5  ; |bcd|PortaOr2:u6|saida~5  ; out0             ;
 ; |bcd|PortaOr2:u6|saida    ; |bcd|PortaOr2:u6|saida    ; out0             ;
-; |bcd|PortaAnd:u64|saida~0 ; |bcd|PortaAnd:u64|saida~0 ; out0             ;
-; |bcd|PortaAnd:u64|saida~1 ; |bcd|PortaAnd:u64|saida~1 ; out0             ;
-; |bcd|PortaAnd:u64|saida   ; |bcd|PortaAnd:u64|saida   ; out0             ;
-; |bcd|PortaAnd:u57|saida~0 ; |bcd|PortaAnd:u57|saida~0 ; out0             ;
-; |bcd|PortaAnd:u57|saida~1 ; |bcd|PortaAnd:u57|saida~1 ; out0             ;
-; |bcd|PortaAnd:u57|saida   ; |bcd|PortaAnd:u57|saida   ; out0             ;
-; |bcd|PortaAnd:u50|saida~0 ; |bcd|PortaAnd:u50|saida~0 ; out0             ;
-; |bcd|PortaAnd:u50|saida~1 ; |bcd|PortaAnd:u50|saida~1 ; out0             ;
-; |bcd|PortaAnd:u50|saida   ; |bcd|PortaAnd:u50|saida   ; out0             ;
-; |bcd|PortaAnd:u43|saida~0 ; |bcd|PortaAnd:u43|saida~0 ; out0             ;
-; |bcd|PortaAnd:u43|saida~1 ; |bcd|PortaAnd:u43|saida~1 ; out0             ;
-; |bcd|PortaAnd:u43|saida   ; |bcd|PortaAnd:u43|saida   ; out0             ;
-; |bcd|PortaAnd:u36|saida~0 ; |bcd|PortaAnd:u36|saida~0 ; out0             ;
-; |bcd|PortaAnd:u36|saida~1 ; |bcd|PortaAnd:u36|saida~1 ; out0             ;
-; |bcd|PortaAnd:u36|saida   ; |bcd|PortaAnd:u36|saida   ; out0             ;
-; |bcd|PortaAnd:u29|saida~0 ; |bcd|PortaAnd:u29|saida~0 ; out0             ;
-; |bcd|PortaAnd:u29|saida~1 ; |bcd|PortaAnd:u29|saida~1 ; out0             ;
-; |bcd|PortaAnd:u29|saida   ; |bcd|PortaAnd:u29|saida   ; out0             ;
 ; |bcd|PortaAnd:u5|saida~0  ; |bcd|PortaAnd:u5|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u5|saida~1  ; |bcd|PortaAnd:u5|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u5|saida    ; |bcd|PortaAnd:u5|saida    ; out0             ;
@@ -615,24 +633,6 @@ The following table displays output ports that do not toggle to 0 during simulat
 ; |bcd|PortaOr2:u3|saida~4  ; |bcd|PortaOr2:u3|saida~4  ; out0             ;
 ; |bcd|PortaOr2:u3|saida~5  ; |bcd|PortaOr2:u3|saida~5  ; out0             ;
 ; |bcd|PortaOr2:u3|saida    ; |bcd|PortaOr2:u3|saida    ; out0             ;
-; |bcd|PortaAnd:u63|saida~0 ; |bcd|PortaAnd:u63|saida~0 ; out0             ;
-; |bcd|PortaAnd:u63|saida~1 ; |bcd|PortaAnd:u63|saida~1 ; out0             ;
-; |bcd|PortaAnd:u63|saida   ; |bcd|PortaAnd:u63|saida   ; out0             ;
-; |bcd|PortaAnd:u56|saida~0 ; |bcd|PortaAnd:u56|saida~0 ; out0             ;
-; |bcd|PortaAnd:u56|saida~1 ; |bcd|PortaAnd:u56|saida~1 ; out0             ;
-; |bcd|PortaAnd:u56|saida   ; |bcd|PortaAnd:u56|saida   ; out0             ;
-; |bcd|PortaAnd:u49|saida~0 ; |bcd|PortaAnd:u49|saida~0 ; out0             ;
-; |bcd|PortaAnd:u49|saida~1 ; |bcd|PortaAnd:u49|saida~1 ; out0             ;
-; |bcd|PortaAnd:u49|saida   ; |bcd|PortaAnd:u49|saida   ; out0             ;
-; |bcd|PortaAnd:u42|saida~0 ; |bcd|PortaAnd:u42|saida~0 ; out0             ;
-; |bcd|PortaAnd:u42|saida~1 ; |bcd|PortaAnd:u42|saida~1 ; out0             ;
-; |bcd|PortaAnd:u42|saida   ; |bcd|PortaAnd:u42|saida   ; out0             ;
-; |bcd|PortaAnd:u35|saida~0 ; |bcd|PortaAnd:u35|saida~0 ; out0             ;
-; |bcd|PortaAnd:u35|saida~1 ; |bcd|PortaAnd:u35|saida~1 ; out0             ;
-; |bcd|PortaAnd:u35|saida   ; |bcd|PortaAnd:u35|saida   ; out0             ;
-; |bcd|PortaAnd:u28|saida~0 ; |bcd|PortaAnd:u28|saida~0 ; out0             ;
-; |bcd|PortaAnd:u28|saida~1 ; |bcd|PortaAnd:u28|saida~1 ; out0             ;
-; |bcd|PortaAnd:u28|saida   ; |bcd|PortaAnd:u28|saida   ; out0             ;
 ; |bcd|PortaAnd:u2|saida~0  ; |bcd|PortaAnd:u2|saida~0  ; out0             ;
 ; |bcd|PortaAnd:u2|saida~1  ; |bcd|PortaAnd:u2|saida~1  ; out0             ;
 ; |bcd|PortaAnd:u2|saida    ; |bcd|PortaAnd:u2|saida    ; out0             ;
@@ -655,7 +655,7 @@ The following table displays output ports that do not toggle to 0 during simulat
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Simulator
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Sat Oct 19 15:18:14 2024
+    Info: Processing started: Sun Oct 20 19:40:29 2024
 Info: Command: quartus_sim --simulation_results_format=VWF bcd -c bcd
 Info (324025): Using vector source file "C:/Users/enioa/Desktop/Aulas/Lab-2-SD/circuito_bcd/Waveform.vwf"
 Info (310003): Option to preserve fewer signal transitions to reduce memory requirements is enabled
@@ -666,8 +666,8 @@ Info (328052): Number of transitions in simulation is 0
 Info (324045): Vector file bcd.sim.vwf is saved in VWF text format. You can compress it into CVWF format in order to reduce file size. For more details please refer to the Quartus II Help.
 Info: Quartus II 64-Bit Simulator was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 4445 megabytes
-    Info: Processing ended: Sat Oct 19 15:18:14 2024
-    Info: Elapsed time: 00:00:00
+    Info: Processing ended: Sun Oct 20 19:40:30 2024
+    Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:00
 
 
